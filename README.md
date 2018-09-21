@@ -1,2 +1,2 @@
-# how9s
+# hownice
 A diary form of documentation
